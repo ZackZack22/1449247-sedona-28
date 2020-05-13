@@ -1,7 +1,7 @@
 # Личный проект «Седона»
 
 * Студент: [Zakir  Samadov](https://up.htmlacademy.ru/htmlcss/28/user/1449247).
-* Наставник: `Неизвестно`.
+* Наставник: [Дмитрий Мирошниченко](https://up.htmlacademy.ru/htmlcss/28/user/591417).
 
 ---
 
